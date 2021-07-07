@@ -1,11 +1,6 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Jun 28 22:15:44 2021
 
-@author: Just_Dragon
-
-This module provides ContactBook application.
-"""
+"""This module provides RP Contacts application."""
 
 import sys
 
