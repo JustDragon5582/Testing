@@ -1,0 +1,15 @@
+#!/usr/Anaconda3/env/ContactBookProject python3
+# -*- coding: utf-8 -*-
+# ContactBookProject/ContactBook.py
+"""
+Created on Mon Jun 28 22:26:48 2021
+
+@author: Just_Dragon
+
+This module provides RP Contacts entry point script.
+"""
+
+from ContactBook.main import main
+
+if __name__ == "__main__": #Traditional conditional statement
+    main()
