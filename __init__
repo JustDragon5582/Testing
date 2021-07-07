@@ -1,0 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Jun 28 21:51:55 2021
+
+@author: Just_Dragon
+
+This module provides the ContactBook package.
+"""
+
+__version__ = "0.1.0"
